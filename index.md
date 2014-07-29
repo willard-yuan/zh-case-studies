@@ -6,7 +6,7 @@ layout: default
 	<img src="{{ site.url }}/assets/images/Case Studies.jpg" title="实例学习" alt="实例学习" width="300" height="422" />
 	<dl>
 		<dt>原书名：</dt>
-		<dd>Programming Computer Vision with Python</dd>
+		<dd>Practical Python and OpenCV: Case Studies</dd>
 		<dt>作者：</dt>
 		<dd>[瑞典] Jan Erik Solem</dd>
 		<dt>译者：</dt>
