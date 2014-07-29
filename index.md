@@ -49,7 +49,7 @@ layout: default
 		<ol>
 			<li><a href="{{ site.url }}author.html" title="作者译者">作者译者</a></li>
 			<li><a href="{{ site.url }}installation.html" title="安装">安装</a></li>
-			<!--<li><a href="{{ site.url }}foreword.html" title="序">序</a></li>-->
+			<li><a href="{{ site.url }}foreword.html" title="序">序</a></li>
 			<li><a href="{{ site.url }}chapter1.html" title="第一章 人脸检测">第一章 人脸检测</a></li>
 			<li><a href="{{ site.url }}chapter2.html" title="第二章 摄像头人脸检测">第二章 摄像头人脸检测</a></li>
 		    <li><a href="{{ site.url }}chapter3.html" title="第三章 视频目标跟踪">第三章 视频目标跟踪</a></li-->
