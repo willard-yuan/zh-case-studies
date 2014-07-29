@@ -8,12 +8,12 @@ layout: default
 		<dt>原书名：</dt>
 		<dd>Practical Python and OpenCV: Case Studies</dd>
 		<dt>作者：</dt>
-		<dd>[瑞典] Jan Erik Solem</dd>
+		<dd>Adrian Rosebrock</dd>
 	</dl>
 
 
 	<div class="buy">
-	<p><a class="btn" href="http://programmingcomputervision.com/" title="源码下载">原书项目主页</a>&nbsp;&nbsp;<a class="btn" href="https://github.com/willard-yuan/pcv-book-code" title="中译本源码下载">中译本源码下载(推荐)</a></p>
+	<p><a class="btn info" href="http://programmingcomputervision.com/" title="源码下载">原书源码</a>&nbsp;&nbsp;<a class="btn" href="https://github.com/willard-yuan/pcv-book-code" title="中译本源码下载">中译本源码(推荐)</a></p>
 	<ol class="notes">
 		<li>中译本源码部分调试完毕，后续源码敬请期待；</li>
         <li>原英文书源码和数据库不全，推荐中译本源码；</li>
@@ -21,11 +21,6 @@ layout: default
         <li>完善了书中的实例；</li>
 	</ol>
 	<p><font color="red"> <h3>The project page is still under development.</h3></font></p>
-	</div>
-	
-	<div class="buy">
-	<h3>购买中译本</h3>
-	<p><a class="btn info" href="http://www.ituring.com.cn/book/1349" title="在图灵购买本书">在图灵购买本书</a>&nbsp;<a class="btn info" href="http://pan.baidu.com/share/link?shareid=4059473268&uk=3440544532" title="全书数据下载">全书数据下载</a></p>
 	</div>
 
 <!--	<div class="buy">
