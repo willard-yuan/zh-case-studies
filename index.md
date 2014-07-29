@@ -9,14 +9,6 @@ layout: default
 		<dd>Practical Python and OpenCV: Case Studies</dd>
 		<dt>作者：</dt>
 		<dd>[瑞典] Jan Erik Solem</dd>
-		<dt>译者：</dt>
-		<dd>朱文涛 & <a href="http://yuanyong.org/">袁勇</a></dd>
-		<dt>Python：</dt>
-		<dd>2.7.x</dd>
-		<dt>页数：</dt>
-		<dd>284</dd>
-		<dt>出版日期：</dt>
-		<dd>2014-06</dd>
 	</dl>
 
 
