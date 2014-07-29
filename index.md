@@ -3,12 +3,18 @@ layout: default
 ---
 
 <div class="bookinfo">
-	<img src="{{ site.url }}/assets/images/logo.png" title="实例学习" alt="实例学习" width="300" height="422" />
+	<img src="{{ site.url }}/assets/images/CaseStudies.jpg" title="实例学习" alt="实例学习" width="300" height="422" />
 	<dl>
 		<dt>原书名：</dt>
 		<dd>Practical Python and OpenCV: Case Studies</dd>
 		<dt>作者：</dt>
-		<dd>Adrian Rosebrock</dd>
+		<dd>[美]Adrian Rosebrock</dd>
+		<dt>作者：</dt>
+		<dd>Willard Yuan</dd>
+		<dt>Python：</dt>
+		<dd>2.7.x</dd>
+		<dt>OpenCV：</dt>
+		<dd>2.x</dd>
 	</dl>
 
 
