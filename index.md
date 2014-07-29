@@ -50,17 +50,14 @@ layout: default
 			<li><a href="{{ site.url }}author.html" title="作者译者">作者译者</a></li>
 			<li><a href="{{ site.url }}installation.html" title="安装">安装</a></li>
 			<!--<li><a href="{{ site.url }}foreword.html" title="序">序</a></li>-->
-			<li><a href="{{ site.url }}chapter1.html" title="第一章 图像处理基础">第一章 图像处理基础(完成)</a></li>
-			<li><a href="{{ site.url }}chapter2.html" title="第二章 图像局部描述符">第二章 图像局部描述符(完成)</a></li>
-		    <!--<li><a href="{{ site.url }}chapter3.html" title="第三章 基本静态的页面">第三章 基本静态的页面</a></li>-->
-			<!--<li><a href="{{ site.url }}chapter4.html" title="第四章 Rails 背后的 Ruby">第四章 Rails 背后的 Ruby</a></li> -->
-			<!--<li><a href="{{ site.url }}chapter5.html" title="第五章 完善布局">第五章 完善布局</a></li> -->
-			<li><a href="{{ site.url }}chapter6.html" title="第六章 图像聚类">第六章 图像聚类(完成)</a></li>
-			<li><a href="{{ site.url }}chapter7.html" title="第七章 图像搜索">第七章 图像搜索</a></li>
-			<li><a href="{{ site.url }}chapter8.html" title="第八章 图像内容分类">第八章 图像内容分类</a></li>
-			<li><a href="{{ site.url }}chapter9.html" title="第九章 图像分割">第九章 图像分割</a></li>
-			<li><a href="{{ site.url }}chapter10.html" title="第十章 OpenCV">第十章 OpenCV</a></li>
-<!--	 <li><a href="{{ site.url }}chapter11.html" title="附录 用户间互相关注">第十一章 关注用户</a></li> 注释掉原内容-->
+			<li><a href="{{ site.url }}chapter1.html" title="第一章 人脸检测">第一章 人脸检测</a></li>
+			<li><a href="{{ site.url }}chapter2.html" title="第二章 摄像头人脸检测">第二章 摄像头人脸检测</a></li>
+		    <li><a href="{{ site.url }}chapter3.html" title="第三章 视频目标跟踪">第三章 视频目标跟踪</a></li-->
+			<li><a href="{{ site.url }}chapter4.html" title="第四章 人眼检测">第四章 人眼检测</a></li>
+			<li><a href="{{ site.url }}chapter5.html" title="第五章 用HOG特征进行手写字体识别">第五章 用HOG特征进行手写字体识别</a></li>
+			<li><a href="{{ site.url }}chapter6.html" title="第六章 植物分类">第六章 植物分类</a></li>
+			<li><a href="{{ site.url }}chapter7.html" title="第七章 创建一个亚马逊图书封面搜索">第七章 创建一个亚马逊图书封面搜索</a></li>
+			<li><a href="{{ site.url }}chapter8.html" title="第八章 总结">第八章 总结</a></li>
 		</ol>
 	</div>
 	<div class="clearfix"></div>

@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 第一章 图像处理基础
+title: 第一章 人脸检测
 ---
 
 <h2 id="sec-1-1">1.1 PIL-Python图像库</h2>

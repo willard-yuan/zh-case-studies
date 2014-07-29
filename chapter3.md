@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 第三章 图像映射
+title: 第三章 视频目标跟踪
 ---
 
 <h2 id="sec-3-1">3.1 图像局部描述子</h2>

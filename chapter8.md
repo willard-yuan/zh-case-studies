@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 第八章 图像类容分类
+title: 第八章 总结
 ---
 
 <h2 id="sec-8-1">8.1 K最近邻</h2>
