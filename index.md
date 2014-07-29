@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="bookinfo">
-	<img src="{{ site.url }}/assets/images/Case Studies.jpg" title="实例学习" alt="实例学习" width="300" height="422" />
+	<img src="{{ site.url }}/assets/images/logo.png" title="实例学习" alt="实例学习" width="300" height="422" />
 	<dl>
 		<dt>原书名：</dt>
 		<dd>Practical Python and OpenCV: Case Studies</dd>
